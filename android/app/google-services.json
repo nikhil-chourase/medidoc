@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913076726278",
+    "project_id": "medicoo-4ca67",
+    "storage_bucket": "medicoo-4ca67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913076726278:android:d2a106af4e5c200e48b187",
+        "android_client_info": {
+          "package_name": "com.nikhilchourase.medidoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913076726278-ol4t70t73d8ckn8t45vi5ki3a198nfa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3sL9pfjFraXAGRQopKIsDbE9f-PG5jrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913076726278-ol4t70t73d8ckn8t45vi5ki3a198nfa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
